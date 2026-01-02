@@ -1,5 +1,13 @@
 # 💫 Hi 👋, I'm Jeevan T R
 **A passionate AI Engineer**
+I am an aspiring Artificial Intelligence & Machine Learning Engineer with hands-on experience in building and deploying ML models using Python.
+
+I have worked on real-world projects involving data preprocessing, feature engineering, model training, evaluation, and deployment. My experience includes internships where I applied machine learning techniques to structured data and practical problem statements.
+
+One of my key projects is a Helmet Violation Detection System, where I implemented an end-to-end ML pipeline to identify traffic safety violations, focusing on accuracy and scalability.
+
+I am actively seeking internships and entry-level roles in AI/ML, Data Analysis, or Python-based roles where I can learn, contribute, and grow as an engineer.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_jeeva_n_6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jeeva-t-r) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_JeevaTR) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeevatr01@gmail.com) 
