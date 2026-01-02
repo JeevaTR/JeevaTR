@@ -1,5 +1,4 @@
 # 💫 Hi 👋, I'm Jeevan T R
-**A passionate AI Engineer**
 I am an aspiring Artificial Intelligence & Machine Learning Engineer with hands-on experience in building and deploying ML models using Python.
 
 I have worked on real-world projects involving data preprocessing, feature engineering, model training, evaluation, and deployment. My experience includes internships where I applied machine learning techniques to structured data and practical problem statements.
